@@ -143,15 +143,3 @@ $response = GoogleTextToSpeech::listVoices(languageCode: 'en-US');
 
 > [!WARNING]
 > `listVoices` method only works with **Google Cloud Text-to-Speech API**. It is not supported for **Gemini Text-to-Speech API**.
-
-## Contributing
-
-> **Your contributions are welcome!** If you'd like to improve this project, simply create a pull request with your changes. Your efforts help enhance its functionality and documentation.
-
-> If you find this project useful, please consider ⭐ it to show your support!
-
-## Authors
-This project is created and maintained by [Moe Mizrak](https://github.com/moe-mizrak).
-
-## License
-Laravel Package Template is an open-sourced software licensed under the **[MIT license](LICENSE)**.
